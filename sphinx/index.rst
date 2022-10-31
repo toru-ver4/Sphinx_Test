@@ -3,16 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. sectnum::
+======================
+Sphinx Test
+======================
 
 .. toctree::
-   :maxdepth: 2
    :caption: Contents:
+   :numbered:
 
-はじめに
-=======================================
-
-ここは Sphinx のテストを行うページです。
-幾つか機能を試してみます。
-
-とにもかくにも、まずは `pydata_sphinx_theme` が GitHub Pages に適用されるか試します。
+   1_Introduction/index

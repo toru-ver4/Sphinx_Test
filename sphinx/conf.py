@@ -45,3 +45,4 @@ html_theme_options = {
     ],
 }
 extensions = ['sphinx.ext.mathjax', 'sphinx.ext.githubpages']
+numfig = True

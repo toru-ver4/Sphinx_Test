@@ -21,5 +21,5 @@ sphinx-quickstart
 * Change `html_theme` to `pydata_sphinx_theme`
 
 ```bash
-sphinx-autobuild -b html . _build/html
+sphinx-autobuild -b html ./sphinx ./docs
 ```
