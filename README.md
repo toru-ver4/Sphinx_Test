@@ -8,7 +8,7 @@ docker push takuver4/docker:5.3.0
 ```
 
 ```PowerShell
-docker run -it -d -P --name sphinx_for_test -v C:\Users\toruv\OneDrive\work\Sphinx_Test\docs:/docs --rm takuver4/docker:5.3.0 bash
+docker run -it -d -P --name sphinx_for_test -v C:\Users\toruv\OneDrive\work\Sphinx_Test\:/docs --rm takuver4/docker:5.3.0 bash
 ```
 
 * Attach Visual Studio Code
