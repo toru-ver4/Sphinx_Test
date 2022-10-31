@@ -14,3 +14,5 @@
 
 ここは Sphinx のテストを行うページです。
 幾つか機能を試してみます。
+
+とにもかくにも、まずは `pydata_sphinx_theme` が GitHub Pages に適用されるか試します。
