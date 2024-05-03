@@ -12,3 +12,4 @@ Sphinx Test
    :numbered:
 
    1_Introduction/index
+   2_Still_HDR_Sample/index
