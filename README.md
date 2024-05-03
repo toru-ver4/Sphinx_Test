@@ -7,8 +7,8 @@ https://toru-ver4.github.io/Sphinx_Test/
 ## Setup
 
 ```PowerShell
-docker build -t takuver4/docker:5.3.0 .
-docker push takuver4/docker:5.3.0
+docker build -t takuver4/docker:7.3.7 .
+docker push takuver4/docker:7.3.7
 ```
 
 ```PowerShell

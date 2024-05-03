@@ -28,6 +28,6 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/*
 
 RUN python3 -m pip install --no-cache-dir -U pip
-RUN python3 -m pip install --no-cache-dir Sphinx==5.3.0 Pillow sphinx-autobuild pydata-sphinx-theme
+RUN python3 -m pip install --no-cache-dir Sphinx==7.3.7 Pillow sphinx-autobuild pydata-sphinx-theme
 
 CMD ["bash"]
